@@ -1,3 +1,8 @@
 print("Hello World")
+<<<<<<< HEAD
 print("My name is PersonA")
-print("My favourite colour is blue")
+print("My favourite colour is red")
+=======
+print("My name is PersonB")
+print("My favourite colour is orange")
+>>>>>>> 3cc72dc0a2d890b5f6e4dea3e2b84074b3ccc864
